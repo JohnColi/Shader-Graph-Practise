@@ -23,7 +23,7 @@ Material:
     m_Floats:
     - _Value: 0.005
     m_Colors:
-    - Color_4DB29ECA: {r: 0.6084906, g: 1, b: 0.9532672, a: 1}
+    - Color_4DB29ECA: {r: 0.6, g: 1, b: 0.6666666, a: 1}
 --- !u!114 &771204526426264270
 MonoBehaviour:
   m_ObjectHideFlags: 11
