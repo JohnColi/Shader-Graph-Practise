@@ -38,8 +38,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _HeadTickness: 0.02
+    - _HeadTickness: 0.005
     - _Progress: 1
-    - _Segments: 5
+    - _Segments: 15
     m_Colors:
-    - _HeadColor: {r: 0, g: 4, b: 4, a: 1}
+    - _HeadColor: {r: 5.3403134, g: 3.7175217, b: 0, a: 1}
